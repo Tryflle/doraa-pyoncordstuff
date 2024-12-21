@@ -1,11 +1,11 @@
 {
-    "name": "YouPink",
+    "name": "YouPink Edit",
     "description": "pink based on material you :3",
     "version": "1.0",
     "authors": [
       {
         "name": "dor4a",
-        "id": "455513497288310785"
+        "id": "4555134972883107852"
       }
     ],
     "semanticColors": {
@@ -33,7 +33,7 @@
         "CARD_SECONDARY_BG": [ "#21181F" ],
         "CHANNEL_ICON": [ "#FAADEC88" ],
         "CHANNELS_DEFAULT": [ "#FAADEC" ],
-        "CHANNELTEXTAREA_BACKGROUND": [ "#00ff00" ],
+        "CHANNELTEXTAREA_BACKGROUND": [ "#ff00ff" ],
         "CHAT_BACKGROUND": [ "#191317" ],
         "EMBED_BACKGROUND": [ "#271B24" ],
 		"FORUM_POST_TAG_BACKGROUND": [ "#31212E" ],
@@ -59,7 +59,7 @@
         "BG_MOD_STRONG": [ "#271B24" ],
         "BG_MOD_SUBTLE": [ "#FAADEC29" ],
 		"BG_SURFACE_RAISED": [ "#21181F" ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#00ff00" ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#ff00ff" ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#271B24" ],
 		"REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [ "#62435C" ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#271B24" ],
